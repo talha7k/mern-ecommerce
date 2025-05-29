@@ -89,6 +89,7 @@ Replace placeholder values with your actual Appwrite and Stripe credentials.
 For questions or feedback, reach out to:
 - **Name**: Talha Khan
 - **Email**: talha7k@gmail.com
+- **Website**: www.Dijitize.com
 
 ## 📄 License
 This project is licensed under the MIT License.
